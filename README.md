@@ -2,9 +2,11 @@
 
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
+- 👨‍🎓 Computer Science Engineering student at JECRC, Jaipur.
 
+- 👀 I’m looking for Internship/Full-Time(PPO) Opportunities/roles.
 
-- 🌱 I’m currently learning *ReactJS*
+- 🌱 Proficient in languages such as *C and C++*
 
 - 👨‍💻 About me: [Portfolio](https://portfolio-six-delta-62.vercel.app/)
 
