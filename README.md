@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning *ReactJS*
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://portfolio-six-delta-62.vercel.app/)
+- 👨‍💻 About me: [Portfolio](https://portfolio-six-delta-62.vercel.app/)
 
 - 💬 Ask me about *HTML, CSS, JavaScript and Cloud Computing Concepts*
 
