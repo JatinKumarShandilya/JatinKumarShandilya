@@ -26,7 +26,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JatinKumarShandilya&show_icons=true&locale=en" alt="jatinkumarshandilya" /></p>
 
-<h3>Github Trophies:</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JatinKumarShandilya" alt="jatinkumarshandilya" /></a> </p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=JatinKumarShandilya&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JatinKumarShandilya&label=Profile%20views&color=0e75b6&style=flat" alt="jatinkumarshandilya" /> </p>
