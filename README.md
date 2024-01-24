@@ -10,7 +10,7 @@
 
 - 💬 Ask me about *HTML, CSS, JavaScript and Cloud Computing Concepts*
 
-- 📫 How to reach me: *sigmajatin01@gmail.com*
+- 📫 How to reach me: [https://www.linkedin.com/in/jatin-kumar-shandilya-4a4460202/](https://www.linkedin.com/in/jatin-kumar-shandilya-4a4460202/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
